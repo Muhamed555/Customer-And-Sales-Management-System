@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1652429350 source:c:\users\sawa\desktop\assignment3\main.cpp
+	<iostream>
+	"Person.h"
+	"Customers.h"
+	"Stock.h"
+	"OrderP.h"
+
+1652265287 source:c:\users\sawa\desktop\assignment3\src\orderitem.cpp
+	"OrderItem.h"
+
+1652192531 c:\users\sawa\desktop\assignment3\include\orderitem.h
+	<iostream>
+
+1652081161 source:c:\users\sawa\desktop\assignment3\src\order.cpp
+	"Order.h"
+
+1652081244 c:\users\sawa\desktop\assignment3\include\order.h
+
+1652734385 source:c:\users\sawa\desktop\assignment3\src\orderp.cpp
+	"OrderP.h"
+
+1652270440 c:\users\sawa\desktop\assignment3\include\orderp.h
+	<ctime>
+	<iostream>
+	"Transaction.h"
+	"OrderItem.h"
+
+1654346536 source:c:\users\sawa\desktop\assignment3\src\product.cpp
+	"Product.h"
+
+1654346522 c:\users\sawa\desktop\assignment3\include\product.h
+	<iostream>
+
+1652093361 source:c:\users\sawa\desktop\assignment3\src\customer.cpp
+	"Customer.h"
+
+1652093361 c:\users\sawa\desktop\assignment3\include\customer.h
+	<iostream>
+
+1652260820 source:c:\users\sawa\desktop\assignment3\src\customers.cpp
+	"Customers.h"
+
+1652195710 c:\users\sawa\desktop\assignment3\include\customers.h
+	<iostream>
+	"Company.h"
+	"Person.h"
+
+1652258300 source:c:\users\sawa\desktop\assignment3\src\person.cpp
+	"Person.h"
+
+1652255545 c:\users\sawa\desktop\assignment3\include\person.h
+	<iostream>
+	"Customer.h"
+
+1652261048 source:c:\users\sawa\desktop\assignment3\src\company.cpp
+	"Company.h"
+
+1652259002 c:\users\sawa\desktop\assignment3\include\company.h
+	"Customer.h"
+	<iostream>
+
+1654346550 source:c:\users\sawa\desktop\assignment3\src\stock.cpp
+	"Stock.h"
+
+1652270431 c:\users\sawa\desktop\assignment3\include\stock.h
+	"Product.h"
+	<iostream>
+	"OrderP.h"
+
+1652267428 source:c:\users\sawa\desktop\assignment3\src\payment.cpp
+	"Payment.h"
+
+1652267428 c:\users\sawa\desktop\assignment3\include\payment.h
+	<ctime>
+	<iostream>
+
+1652268723 source:c:\users\sawa\desktop\assignment3\src\cash.cpp
+	"Cash.h"
+
+1652267327 c:\users\sawa\desktop\assignment3\include\cash.h
+	"Payment.h"
+
+1652267608 source:c:\users\sawa\desktop\assignment3\src\check.cpp
+	"Check.h"
+
+1652267608 c:\users\sawa\desktop\assignment3\include\check.h
+	"Payment.h"
+
+1652267608 source:c:\users\sawa\desktop\assignment3\src\credit.cpp
+	"Credit.h"
+
+1652267608 c:\users\sawa\desktop\assignment3\include\credit.h
+	<ctime>
+	"Payment.h"
+
+1652268678 source:c:\users\sawa\desktop\assignment3\src\transaction.cpp
+	"Transaction.h"
+
+1652267327 c:\users\sawa\desktop\assignment3\include\transaction.h
+	<ctime>
+	"Check.h"
+	"Credit.h"
+	"Cash.h"
+
