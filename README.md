@@ -2,7 +2,7 @@
 
 # About The Project
 This project was the application of what I learned in object-oriented programming in the second semaster of my university studies. The idea of the project is to build a system that includes the following characteristics:
-1. Add, edit, print and delete clients
+1. Add, edit, print and delete customers
 2. Add, edit, print, search and delete products
 3. Add and print customer orders
 4. Payment and money transfers (credit, cash, check)
