@@ -1,4 +1,3 @@
-# Customer-And-Sales-Management-System
 
 # About The Project
 This project was the application of what I learned in object-oriented programming in the second semaster of my university studies. The idea of the project is to build a system that includes the following characteristics:
